@@ -1,0 +1,50 @@
+<b>Bitcoin</b>: <u>$27,661.89$</u>  +4.45%
+<b>Ethereum</b>: <u>$1,827.85$</u>  +5.76%
+<b>Tether</b>: <u>$1.02$</u>  +0.05%
+<b>BNB</b>: <u>$336.33$</u>  +0.80%
+<b>USD Coin</b>: <u>$1.01$</u>  +0.10%
+<b>XRP</b>: <u>$0.3852$</u>  +2.51%
+<b>Cardano</b>: <u>$0.3551$</u>  +5.28%
+<b>Polygon</b>: <u>$1.24$</u>  +4.36%
+<b>Dogecoin</b>: <u>$0.07785$</u>  +4.61%
+<b>Solana</b>: <u>$22.35$</u>  +10.69%
+<b>Binance USD</b>: <u>$1.01$</u>  +0.17%
+<b>Polkadot</b>: <u>$6.65$</u>  +4.00%
+<b>Shiba Inu</b>: <u>$0.00001136$</u>  +4.91%
+<b>Litecoin</b>: <u>$87.67$</u>  +6.10%
+<b>TRON</b>: <u>$0.06675$</u>  +1.07%
+<b>Avalanche</b>: <u>$17.73$</u>  +6.57%
+<b>Dai</b>: <u>$1.05$</u>  -0.03%
+<b>Uniswap</b>: <u>$6.58$</u>  +7.17%
+<b>Cosmos</b>: <u>$13.22$</u>  +2.70%
+<b>Chainlink</b>: <u>$7.21$</u>  +1.86%
+<b>UNUS SED LEO</b>: <u>$3.37$</u>  +0.36%
+<b>Ethereum Classic</b>: <u>$22.39$</u>  +14.57%
+<b>Toncoin</b>: <u>$2.47$</u>  +1.30%
+<b>OKB</b>: <u>$49.41$</u>  +3.38%
+<b>Monero</b>: <u>$151.42$</u>  -0.76%
+<b>Bitcoin Cash</b>: <u>$137.33$</u>  +3.61%
+<b>Filecoin</b>: <u>$6.32$</u>  +6.05%
+<b>Aptos</b>: <u>$13.92$</u>  +9.05%
+<b>Stellar</b>: <u>$0.08837$</u>  +2.21%
+<b>Lido DAO Token</b>: <u>$2.69$</u>  +11.84%
+<b>TrueUSD</b>: <u>$1.02$</u>  -0.08%
+<b>Hedera</b>: <u>$0.06588$</u>  +5.22%
+<b>NEAR Protocol</b>: <u>$2.19$</u>  +7.18%
+<b>Cronos</b>: <u>$0.07363$</u>  +1.75%
+<b>VeChain</b>: <u>$0.02431$</u>  +3.09%
+<b>ApeCoin</b>: <u>$4.60$</u>  +9.68%
+<b>Internet Computer</b>: <u>$5.69$</u>  +4.13%
+<b>Stacks</b>: <u>$1.21$</u>  +12.74%
+<b>Quant</b>: <u>$134.46$</u>  +4.40%
+<b>Algorand</b>: <u>$0.2273$</u>  +5.04%
+<b>The Graph</b>: <u>$0.1713$</u>  +12.83%
+<b>Fantom</b>: <u>$0.5253$</u>  +17.55%
+<b>Immutable X</b>: <u>$1.51$</u>  +7.08%
+<b>EOS</b>: <u>$1.15$</u>  +3.35%
+<b>Decentraland</b>: <u>$0.6622$</u>  +10.48%
+<b>Tezos</b>: <u>$1.25$</u>  +3.75%
+<b>MultiversX</b>: <u>$45.82$</u>  +7.18%
+<b>BitDAO</b>: <u>$0.5564$</u>  +3.33%
+<b>Aave</b>: <u>$81.60$</u>  +6.07%
+<b>Flow</b>: <u>$1.08$</u>  +4.99%
